@@ -18,5 +18,14 @@ Discover the significance of outlier detection across different domains. Using t
 
 Gain insights into the crucial process of data wrangling and transformation. By cleaning, reshaping, and formatting raw data, you'll prepare it for analysis. This project covers techniques like data imputation, merging, and feature engineering to enhance data quality and make it suitable for further analysis and modeling.
 
+## Project 5: Credit Card Fraud Detection 
+
+Build a credit card fraud detection system using machine learning techniques. Detect anomalies and patterns in credit card transactions data to identify potential fraud. Implement real-time alerts for immediate action.
+
+## Project 6: Movie Recommendation 
+
+Develop a movie recommendation system to personalize movie choices for users. Use collaborative filtering or content-based methods to offer relevant movie suggestions based on user preferences and ratings.
+
 Feel free to explore and learn from these projects, and don't hesitate to contribute or provide feedback.
+
 
